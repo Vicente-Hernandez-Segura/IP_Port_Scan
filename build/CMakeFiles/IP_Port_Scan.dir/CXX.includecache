@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vinnie/src/IP_Port_Scan/main.cpp
+main.h
+/home/vinnie/src/IP_Port_Scan/main.h
+
+/home/vinnie/src/IP_Port_Scan/main.h
+atomic
+-
+fstream
+-
+iostream
+-
+mutex
+-
+string
+-
+thread
+-
+vector
+-
+

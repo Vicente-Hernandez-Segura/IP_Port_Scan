@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++1y -Wall -Wextra -static -static-libgcc -static-libstdc++ -Wl,-Bstatic -lstdc++ -lpthread -rdynamic CMakeFiles/IP_Port_Scan.dir/main.cpp.o -o IP_Port_Scan  -lwinmm.lib -lsapi -lwsock32 -lws2_32 -lcrypt32 -lws2_32 -lgdiplus -lWs2_32.lib -lcrypt32 -lgdiplus -lWs2_32.lib 

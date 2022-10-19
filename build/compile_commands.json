@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/vinnie/src/IP_Port_Scan/build",
+  "command": "/usr/bin/c++    -std=c++1y -Wall -Wextra -static -static-libgcc -static-libstdc++ -Wl,-Bstatic -lstdc++ -lpthread -o CMakeFiles/IP_Port_Scan.dir/main.cpp.o -c /home/vinnie/src/IP_Port_Scan/main.cpp",
+  "file": "/home/vinnie/src/IP_Port_Scan/main.cpp"
+}
+]
